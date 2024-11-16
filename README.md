@@ -192,7 +192,7 @@ If you believe that I labeled gamepad with incorrect type, your gamepad is missi
 
 # Implementations
 #### Official implementations:
-* [love2d](https://love2d.org/) [implemantation, by volkov](https://github.com/Vovkiv/gamepad_guesser_solution)
+* [love2d](https://love2d.org/) [implementation, by volkov](https://github.com/Vovkiv/gamepad_guesser_solution)
 #### Community maintained implementations:
 * None, currently.
 
