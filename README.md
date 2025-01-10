@@ -1,13 +1,13 @@
 # About
 
-[https://github.com/Vovkiv/gamepads_types_database](https://github.com/Vovkiv/gamepads_types_database)
+[https://github.com/grif-on/generic_gamepads_types_database](https://github.com/grif-on/generic_gamepads_types_database)
 
 ---
 
 ![Logo of this library.](assets/icons/icon_200x200.webp)
 
 This project provides csv file which map gamepad types based on their GUID and names for showing correct gamepad icons in games.
-https://github.com/Vovkiv/gamepads_types_database
+https://github.com/grif-on/generic_gamepads_types_database
 This project tries to support as much as possible of gamepads, official or 3rd party. In fact, this was initial goal to make guessing easir not only for official/"big" manufactures, like Sony or Microsoft
 
 If you need to show correct gamepad prompts for XBOX, PlayStation or Nintendo (or replicas of said consoles/gamepads) and some other popular consoles/gamepads with easy, then you come to right repository!
@@ -67,7 +67,7 @@ or in raw view:
 ```csv
 "DatabaseVersion","1"
 -- 2nd column is version of database syntax. If it somehow will change significantly, this number will be changed.
-"DatabaseLinks","https://github.com/Vovkiv/gamepads_types_database","https://github.com/Vovkiv/gamepads_types_database/blob/main/gamecontrollerdb.csv"
+"DatabaseLinks","https://github.com/grif-on/generic_gamepads_types_database","https://github.com/grif-on/generic_gamepads_types_database/blob/main/gamecontrollerdb.csv"
 -- 2nd column is link to database repo, 3rd column is direct link to database file, which can be used to implement auto updating for database.
 "DatabaseLicenseInfo","MIT-0","MIT No Attribution TEXT"
 -- 2nd column is for license type, 3rd for license full text that you can show in your game, if you want to.
@@ -192,7 +192,7 @@ If you believe that I labeled gamepad with incorrect type, your gamepad is missi
 
 # Implementations
 #### Official implementations:
-* [love2d](https://love2d.org/) [implementation, by volkov](https://github.com/Vovkiv/gamepad_guesser_solution)
+* [love2d](https://love2d.org/) [implementation, by volkov](https://github.com/grif-on/love2d_gamepad_guesser_solution)
 #### Community maintained implementations:
 * None, currently.
 
@@ -214,7 +214,4 @@ If you believe that I labeled gamepad with incorrect type, your gamepad is missi
 	```
 
 # Contacts
-* Open [New Issue](https://github.com/Vovkiv/gamepads_types_database/issues/new) on repo.
-* [Check discussions](https://github.com/Vovkiv/gamepads_types_database/discussions/1)
-* [matrix](https://matrix.to/#/@vovkiv:matrix.org).
-* Email - `volkovissocool@gmail.com`
+* Open [New Issue](https://github.com/grif-on/generic_gamepads_types_database/issues/new) on repo.

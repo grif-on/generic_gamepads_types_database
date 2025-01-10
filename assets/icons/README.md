@@ -1,4 +1,4 @@
-https://github.com/Vovkiv/gamepads_types_database
+https://github.com/grif-on/generic_gamepads_types_database
 
 Icon for gamepads_types_database by volkov is marked with CC0 1.0 Universal. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
 
